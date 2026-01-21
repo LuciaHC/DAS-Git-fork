@@ -1,6 +1,6 @@
 Proyecto base sobre el que practicar.
 
-Mi nombre es: Lucia Herraiz Cano
+Mi nombre es: Beatriz Otero Casanovas
 
 
 
