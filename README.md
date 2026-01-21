@@ -1,3 +1,6 @@
-Proyecto base sobre el que prácticar.
+Proyecto base sobre el que practicar.
 
-Mi nombre es: 
+Mi nombre es: Lucia Herraiz Cano
+
+
+
